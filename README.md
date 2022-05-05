@@ -20,7 +20,7 @@
 hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a hardworking mobile developer with nearly 3 years of experience in native application development looking for an Android Developer position. Skilled in software architecture, reactive programming, custom views, and experience development and maintenance of high-quality apps for high-placed businesses.
 
 - 💼 any freelance work? do reach, [email](mailto:yelinaung.me@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help.
 
 <br/>
 <p align="left">
