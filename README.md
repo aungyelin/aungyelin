@@ -12,7 +12,7 @@
 <p align="left">
   <a href="https://yelinaung.site/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aungyelin&show_icons=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungyelin&layout=compact" />
   </a>
 </p>
 <br>
