@@ -1,4 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://www.instagram.com/yelinaung.me/">
   <img align="left" alt="Ye's Instagram" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/Instagram.svg" />
 </a>
@@ -13,6 +14,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aungyelin.aungyelin)
+
 <br/>
 <p align="left">
   <a href="https://www.yelinaung.site/" target="_blank">
@@ -20,4 +22,3 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&theme=dark&hide_border=true" />
   </a>
 </p>
-<br>
