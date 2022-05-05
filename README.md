@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/yelinaung.me/">
   <img align="left" alt="Ye's Instagram" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/Instagram.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/Linn#1739">
   <img align="left" alt="Ye's Discord" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/yelinaung">
@@ -19,8 +19,8 @@
 
 hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a hardworking mobile developer with nearly 3 years of experience in native application development looking for an Android Developer position. Skilled in software architecture, reactive programming, custom views, and experience development and maintenance of high-quality apps for high-placed businesses.
 
-- 💼 any freelance work? do reach, [email](mailto:yelinaung.me@gmail.com) :)
-- 💬 ask me about anything, i am happy to help.
+- 💼 &nbsp; any freelance work? do reach, [email](mailto:yelinaung.me@gmail.com) :)
+- 💬 &nbsp; ask me about anything, i am happy to help.
 
 <br/>
 <p align="left">
