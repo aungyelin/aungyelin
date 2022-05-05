@@ -10,7 +10,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://yelinaung.site/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aungyelin&show_icons=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin" />
   </a>
@@ -18,8 +18,8 @@
 <br>
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aungyelin&show_icons=true&theme=gruvbox&hide_border=true" />
+  <a href="https://yelinaung.site/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aungyelin&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&theme=gruvbox&hide_border=true" />
   </a>
 </p>
