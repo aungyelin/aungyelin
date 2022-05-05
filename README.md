@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/yelinaung.me/">
-  <img align="left" alt="Ye's Instagram" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/Instagram.svg" />
+  <img align="left" alt="Ye's Instagram" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/instagram.svg" />
 </a>
 <a href="https://discord.gg/Linn#1739">
   <img align="left" alt="Ye's Discord" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/discord.svg" />
