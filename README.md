@@ -37,11 +37,11 @@ Hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a passionate mobile develope
     
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aungyelin&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=C4C4C4&text_color=C4C4C4&hide_border=true&count_private=true" />
     
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&theme=dark&hide_border=true&ring=29FF30&fire=29FF30&currStreakLabel=29FF30" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&theme=dark&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
     
   </a>
 </p>
 
 <!-- <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=aungyelin&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
   
-<a href="http://www.github.com/aungyelin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>  -->
+<a href="http://www.github.com/aungyelin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&stroke=ffffff&background=000000&ring=29FF30&fire=29FF30&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>  -->
