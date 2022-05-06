@@ -37,7 +37,7 @@ Hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a passionate mobile develope
     
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aungyelin&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=C4C4C4&text_color=C4C4C4&hide_border=true&count_private=true" />
     
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&theme=dark&hide_border=true&ring=0891b2&fire=FF0000&currStreakLabel=0891b2" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aungyelin&theme=dark&hide_border=true&ring=29FF30&fire=29FF30&currStreakLabel=29FF30" />
     
   </a>
 </p>
