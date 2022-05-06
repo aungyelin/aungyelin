@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a passionate mobile developer developing the quality apps natively and hybrid. Skilled in software architecture, reactive programming, custom views, and experience development and maintenance of high-quality apps for high-placed businesses.
+Hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a passionate mobile developer with nearly 3 years of experience in developing the quality apps natively and hybrid. Skilled in software architecture, reactive programming, custom views, and experience development and maintenance of high-quality apps for high-placed businesses.
 
 <!-- - 💼 &nbsp; any freelance work? do reach, [email](mailto:yelinaung.me@gmail.com).
 - 💬 &nbsp; ask me about anything, i'm happy to help. -->
