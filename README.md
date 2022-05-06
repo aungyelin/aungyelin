@@ -27,7 +27,7 @@ Hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a passionate mobile develope
 
 💼 &nbsp; any freelance work? do reach, [email](mailto:yelinaung.me@gmail.com) :)
 <br>
-💬 &nbsp; ask me about anything, i am happy to help.
+💬 &nbsp; ask me about anything, i'm happy to help.
 
 <br/>
 <p align="left">
