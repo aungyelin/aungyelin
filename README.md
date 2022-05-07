@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.facebook.com/yelinaung.me">
   <img align="left" alt="Ye Lin Aung's Facebook" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/facebook.svg" />
@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, i'm [Ye Lin Aung](https://www.yelinaung.site/), a passionate mobile developer with nearly 3 years of experience in developing the quality apps natively and hybrid. Skilled in software architecture, reactive programming, custom views, and experience development and maintenance of high-quality apps for high-placed businesses.
+I am [Ye Lin Aung](https://www.yelinaung.site/), a passionate mobile developer with nearly 3 years of experience in developing the quality apps natively and hybrid. Skilled in software architecture, reactive programming, custom views, and experience development and maintenance of high-quality apps for high-placed businesses.
 
 <br/>
 <p align="left">
