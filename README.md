@@ -1,4 +1,4 @@
-### hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <a href="https://www.facebook.com/yelinaung.me">
   <img align="left" alt="Ye Lin Aung's Facebook" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/facebook.svg" />
