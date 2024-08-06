@@ -10,7 +10,7 @@
   <img align="left" alt="Ye Lin Aung's Discord" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/discord.svg" />
 </a> -->
 <a href="https://x.com/yelinaung">
-  <img align="left" alt="Ye Lin Aung's X" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/x" />
+  <img align="left" alt="Ye Lin Aung's X" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aungyelin/">
   <img align="left" alt="Ye Lin Aung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/linkedin.svg" />
