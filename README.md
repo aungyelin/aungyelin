@@ -23,7 +23,7 @@
 
 <br />
 
-I am [Ye Lin Aung](https://www.yelinaung.dev/), a passionate and experienced mobile application developer with over 5 years of expertise in building innovative, user-friendly, and scalable apps and SDKs for both Android and iOS platforms.
+I am [Ye Lin Aung](https://www.yelinaung.dev/), a passionate and experienced mobile application developer with over 5 years of expertise in building innovative, user-friendly, and scalable apps and SDKs for both Android and iOS platforms. I have a strong background in Swift and Kotlin, leveraging these technologies to build secure, scalable, and feature-rich mobile applications.
 
 <!-- <br/>
 <p align="left">
