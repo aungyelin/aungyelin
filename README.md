@@ -18,9 +18,7 @@
 <a href="https://join.skype.com/invite/wwtlRFfAJArI">
   <img align="left" alt="Ye Lin Aung's Skype" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/skype.svg" />
 </a>
-
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aungyelin.aungyelin) -->
-
 <br />
 
 I am [Ye Lin Aung](https://www.yelinaung.dev/), a passionate and experienced mobile application developer with over 5 years of expertise in building innovative, user-friendly, and scalable apps and SDKs for both Android and iOS platforms. I have a strong background in Swift and Kotlin, leveraging these technologies to build secure, scalable, and feature-rich mobile applications.
