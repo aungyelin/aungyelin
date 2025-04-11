@@ -21,7 +21,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aungyelin.aungyelin) -->
 
-[![website status](https://img.shields.io/website-up-down-green-red/http/yelinaung.dev/)](https://yelinaung.dev/)
+[![website status](https://img.shields.io/website-up-down-green-red/http/34.122.108.84/)](https://yelinaung.dev/)
 
 <br />
 
