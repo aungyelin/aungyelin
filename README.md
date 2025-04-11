@@ -19,7 +19,7 @@
   <img align="left" alt="Ye Lin Aung's Skype" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/skype.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aungyelin.aungyelin)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=aungyelin.aungyelin) -->
 
 <br />
 
