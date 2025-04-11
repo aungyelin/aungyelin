@@ -15,8 +15,8 @@
 <a href="https://www.linkedin.com/in/aungyelin/">
   <img align="left" alt="Ye Lin Aung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/linkedin.svg" />
 </a>
-<a href="https://join.skype.com/invite/wwtlRFfAJArI">
-  <img align="left" alt="Ye Lin Aung's Skype" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/skype.svg" />
+<a href="https://line.me/ti/p/BXQFGbz7CW">
+  <img align="left" alt="Ye Lin Aung's Line" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/line.svg" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aungyelin.aungyelin) -->
