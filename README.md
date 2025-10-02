@@ -1,22 +1,22 @@
 ### hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <a href="https://www.facebook.com/yelinaung.me">
-  <img align="left" alt="Ye Lin Aung's Facebook" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/facebook.svg" />
+  <img align="left" alt="Ye Lin Aung's Facebook" width="22px" src="assets/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/yelinaung.me/">
-  <img align="left" alt="Ye Lin Aung's Instagram" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/instagram.svg" />
+  <img align="left" alt="Ye Lin Aung's Instagram" width="22px" src="assets/instagram.svg" />
 </a>
 <!-- <a href="https://discord.gg/Linn#1739">
-  <img align="left" alt="Ye Lin Aung's Discord" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/discord.svg" />
+  <img align="left" alt="Ye Lin Aung's Discord" width="22px" src="assets/discord.svg" />
 </a> -->
 <a href="https://x.com/yelinaung">
-  <img align="left" alt="Ye Lin Aung's X" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/x.svg" />
+  <img align="left" alt="Ye Lin Aung's X" width="22px" src="assets/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aungyelin/">
-  <img align="left" alt="Ye Lin Aung's LinkedIN" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/linkedin.svg" />
+  <img align="left" alt="Ye Lin Aung's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 <a href="https://line.me/ti/p/BXQFGbz7CW">
-  <img align="left" alt="Ye Lin Aung's Line" width="22px" src="https://raw.githubusercontent.com/aungyelin/aungyelin/main/assets/line.svg" />
+  <img align="left" alt="Ye Lin Aung's Line" width="22px" src="assets/line.svg" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aungyelin.aungyelin) -->
