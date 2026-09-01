@@ -25,7 +25,7 @@
 
 <br />
 
-I am [Ye Lin Aung](https://yelinaung.dev/), a Senior Mobile Developer with 7 years of expertise engineering high-performance native applications and core SDKs. By bridging clean code principles with modern frameworks, I build scalable, user-centric solutions that optimize both the end-user experience and developer integration workflows. Eager to collaborate on complex technical challenges and drive the delivery of innovative mobile platforms.
+I am [Ye Lin Aung](https://yelinaung.dev/), a Senior Mobile Developer with 7 years of expertise in engineering high-performance native applications and core telematics SDKs. By bridging Clean Architecture with modern frameworks like Jetpack Compose and SwiftUI, I build scalable, user-centric solutions that optimize end-user experience and developer integration workflows. Eager to leverage native expertise alongside cross-platform tools to deliver innovative mobile platforms.
 
 <!-- <br/>
 <p align="left">
